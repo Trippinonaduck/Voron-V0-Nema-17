@@ -12,4 +12,4 @@ Spacers go in between the extrusions. The same mounting screws can be used for t
 
 Updated Panel clips to accomodated the rear expansion and midclips adjusted to center your normal sized side panels.
 
-![SpacerView](/Images/B_drive_view.JPG)
+![SpacerView](/Images/B_drive_view.jpg)
